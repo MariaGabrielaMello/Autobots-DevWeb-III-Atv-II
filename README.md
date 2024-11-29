@@ -31,9 +31,6 @@ spring.datasource.password=senha os valores "usuario" e "senha" para o seu usuá
 ### 3. Execute o Run
 No caminho automanager\src\main\java\com\autobots\automanager dê o comando run no arquivo AutomanagerApplication
 
-### 4. Visualizando os dados
-Dê os comandos no MySql para visualizar os dados, ex.: SELECT * FROM nome_da_tabela;
-
 📚 Tecnologias Utilizadas
 - Java (Spring Boot)
 - MySQL
